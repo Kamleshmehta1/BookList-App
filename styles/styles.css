@@ -12,7 +12,7 @@ hmtl {
     align-items: center;
     flex-direction: column;
     font-family: "Montserrat", sans-serif;
-    background-image: url("/blackImg.jpg");
+    background-image: url("https://github.com/Kamleshmehta1/BookList-App/blob/main/blackImg.jpg?raw=true");
 }
 
 .container {
